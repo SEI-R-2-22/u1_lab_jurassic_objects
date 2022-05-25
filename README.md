@@ -91,12 +91,12 @@ const hammondsMines = {
   buenos_aires: {
     depth: '400 meters',
     annualBudget: 1000000,
-    specimens: ['Dilophosaurus', 'Brachiosaurus']
+    specimens: ['Ankylodon', 'Brachiosaurus']
   },
   mexico: {
     depth: '350 meters',
     annualBudget: 900000,
-    specimens: ['Gallimimus', 'Parasaurolophus']
+    specimens: ['Triceratops', 'Stegosaurus']
   }
 }
 ```
@@ -113,7 +113,7 @@ const hammondsMines = {
 
 6. Create a new reasonably named variable to track the total annual cost of operation for the mines by adding the previously stored budgets.
 
-7. Access and console log the "Parasaurolophus" specimen.
+7. Access and console log the "Stegosaurus" specimen.
 
 ![Goldblum](https://media4.giphy.com/media/3oD3YQjT2cSZTsy6Va/giphy.gif)
 
