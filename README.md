@@ -101,13 +101,13 @@ const hammondsMines = {
 }
 ```
 
-1. Access the depth of John Hammond's mine in Mexico, store the depth of the Mexican mine into an appropriately named variable.
+1. Access the depth of John Hammond's mine in Mexico, then create an appropriately named variable to store this value.
 
-2. Access the annual budget for Hammond's mine in Buenos Airies, store the annual budget for Hammond's mine in Buenos Aires.
+2. Access and log the annual budget for Hammond's mine in Buenos Aires.
 
-3. Access and console the dinosaur DNA specimens found in Buenos Aires.
+3. Access and console log the dinosaur DNA specimens found in Buenos Aires.
 
-4. Insert Nicaragua into `hammondsMines`.
+4. Insert a new object called Nicaragua into `hammondsMines`, and create some information to add into its properties (Depth, budget, and specimens).
 
 5. Create three variables to store the annual budgets for each mine into them.
 
